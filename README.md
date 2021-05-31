@@ -9,6 +9,8 @@ Information security student with knowledge in microsoft azure, python, web deve
 I always look for challenges and expand my knowledge and that also enables my intellectual and professional development.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourencobrah)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourencobrah&show_icons=true&theme=dark)
+
 
 
 ![Snake animation](https://github.com/Lourencobrah/Lourencobrah/blob/output/github-contribution-grid-snake.svg)
