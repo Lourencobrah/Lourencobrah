@@ -8,7 +8,7 @@
 Information security student with knowledge in microsoft azure, python, web development with HTML and CSS. Enthusiast of AI and nanotechnology looking for a professional replacement.
 I always look for challenges and expand my knowledge and that also enables my intellectual and professional development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lourencobrah=anuraghazra)](https://github.com/Lourenobrah/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lourencobrah=anuraghazra)](https://github.com/Lourencobrah/github-readme-stats)
 
 
 ![Snake animation](https://github.com/Lourencobrah/Lourencobrah/blob/output/github-contribution-grid-snake.svg)
