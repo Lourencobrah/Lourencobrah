@@ -13,7 +13,7 @@
 
 
 ### About me
-Information security student with knowledge in microsoft azure, python, web development with HTML and CSS. Enthusiast of AI and nanotechnology looking for a professional replacement.
+Analysis and systems development student with knowledge in angular, python, flutter, automation anywhere, java, web development with HTML and CSS. Enthusiast of AI and nanotechnology.
 I always look for challenges and expand my knowledge and that also enables my intellectual and professional development.
   
 <div style="display: inline_block"><br>
