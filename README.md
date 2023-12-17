@@ -13,7 +13,7 @@
 
 
 ### About me
-Analysis and systems development student with knowledge in angular, python, flutter, automation anywhere, java, web development with HTML and CSS. Enthusiast of AI and nanotechnology.
+Student of systems analysis and development (USF) and cybersecurity (FIAP), I currently work as a junior developer, passionate about programming and security, my goal is to become a "DevSecOps"..
 I always look for challenges and expand my knowledge and that also enables my intellectual and professional development.
   
 <div style="display: inline_block"><br>
