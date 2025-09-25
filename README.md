@@ -13,7 +13,7 @@
 
 
 ### About me
-Student of systems analysis and development (USF) and cybersecurity (FIAP), I currently work as a junior developer, passionate about programming and security, my goal is to become a "DevSecOps"..
+Graduated in cybersecurity (FIAP), I currently work as a mid-level developer, passionate about programming and security.
 I always look for challenges and expand my knowledge and that also enables my intellectual and professional development.
   
 <div style="display: inline_block"><br>
